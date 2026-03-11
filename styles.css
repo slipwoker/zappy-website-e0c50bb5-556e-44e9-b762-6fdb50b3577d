@@ -141,19 +141,19 @@
   --secondary: #60A5FA;
   --accent: #C066FF;
   --bg-light: #FFFFFF;
-  --bg-dark: #009900;
+  --bg-dark: #0B2F2C;
   --text-dark: #4A4A4A;
   --text-light: #F8FAFC;
   --text-muted: #707070;
   --border-light: #8a8882;
-  --border-dark: #009900;
+  --border-dark: #50807b;
   --nav-bg: #FAFAF7;
   --nav-text: #1E2329;
   --nav-text-hover: #0F766E;
   
   --gradient-primary: linear-gradient(180deg, #076AE4 0%, #18BEB1 55%, #14A196 100%);
   --gradient-goldShine: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.55) 50%, rgba(255,255,255,0) 100%);
-  --gradient-secondary: linear-gradient(180deg, #00D700 0%, #00B900 100%);
+  --gradient-secondary: linear-gradient(180deg, #CF8AFF 0%, #C26CFF 100%);
   --gradient-goldAccent: linear-gradient(180deg, #E1B6FF 0%, #CD85FF 100%);
   --gradient-darkSection: linear-gradient(180deg, #223746 0%, #1F2D3A 100%);
   --gradient-overlayDark: linear-gradient(90deg, rgba(247,243,238,0.92) 0%, rgba(247,243,238,0.68) 35%, rgba(247,243,238,0) 70%);
@@ -311,7 +311,7 @@ ul, ol {
   left: 20px;
   width: 60px;
   height: 60px;
-  background: #25D366;
+  background: #009900;
   color: white;
   border-radius: 50%;
   display: flex;
@@ -402,12 +402,12 @@ ul, ol {
   --secondary: #60A5FA;
   --accent: #C066FF;
   --bg-light: #FFFFFF;
-  --bg-dark: #009900;
+  --bg-dark: #0B2F2C;
   --text-dark: #4A4A4A;
   --text-light: #F8FAFC;
   --text-muted: #707070;
   --border-light: #8a8882;
-  --border-dark: #009900;
+  --border-dark: #50807b;
 }
 
 .navbar {
@@ -631,12 +631,12 @@ ul, ol {
   --secondary: #60A5FA;
   --accent: #C066FF;
   --bg-light: #FFFFFF;
-  --bg-dark: #009900;
+  --bg-dark: #0B2F2C;
   --text-dark: #4A4A4A;
   --text-light: #F8FAFC;
   --text-muted: #707070;
   --border-light: #8a8882;
-  --border-dark: #009900;
+  --border-dark: #50807b;
 }
 
 .navbar {
@@ -1689,12 +1689,12 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
   --secondary: #60A5FA;
   --accent: #C066FF;
   --bg-light: #FFFFFF;
-  --bg-dark: #009900;
+  --bg-dark: #0B2F2C;
   --text-dark: #4A4A4A;
   --text-light: #F8FAFC;
   --text-muted: #707070;
   --border-light: #8a8882;
-  --border-dark: #009900;
+  --border-dark: #50807b;
 }
 
 .site-footer {
@@ -3994,6 +3994,12 @@ body.accessibility-widget-visible ._access-menu {
     display: none !important;
   }
 }
+
+
+
+
+
+
 
 
 
