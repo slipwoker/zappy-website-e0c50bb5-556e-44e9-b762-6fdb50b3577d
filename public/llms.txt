@@ -1,0 +1,47 @@
+# זסלבסקי — Generative Engine Optimization Map
+
+> An energy healing practice specializing in the Nader Butto method of energetic cleansing. The practice focuses on holistic healing through energy work, representing a unique approach to alternative medicine and spiritual wellness.
+
+---
+
+## Pages
+
+### בית
+https://-e0c50bb5.zappy5.app
+גלו את כוח השטיפה האנרגטית בשיטת נאדר בוטו עם זסלבסקי. טיפול אנרגטי מקצועי להורדת לחץ, שחרור כאבים כרוניים וריפוי הוליסטי עמוק. התחילו את המסע שלכם לאיזון ובריאות.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-e0c50bb5.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-e0c50bb5.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-e0c50bb5.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About זסלבסקי
+An energy healing practice specializing in the Nader Butto method of energetic cleansing. The practice focuses on holistic healing through energy work, representing a unique approach to alternative medicine and spiritual wellness.
+
+## Target Audience
+- מחפשי ריפוי אנרגטי
+- מקצוענים להורדת לחץ
+- סובלים מכאבים כרוניים
+
+## Industry
+טיפול אנרגטי ורפואה משלימה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-e0c50bb5.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-e0c50bb5.zappy5.app/robots.txt
