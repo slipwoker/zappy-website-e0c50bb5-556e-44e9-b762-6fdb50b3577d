@@ -865,13 +865,13 @@
 </section>
 
 <section id="process" class="index-process-section" data-layout-spec="בית-process">
-  <div class="index-process-container">
-    <div class="index-process-content">
+  <div class="index-process-container zappy-preserve-css-grid" id="zappy-auto-grid-1773266371050-mnhmdp" data-zappy-auto-grid="true" data-zappy-grid-align="start" data-original-item-width="570" data-original-gap="60px" style="grid-template-columns: 570px 570px;">
+    <div class="index-process-content" data-grid-item-index="0">
       <h2>איך עובדת פגישת טיפול?</h2>
       <p class="index-process-intro">תהליך פשוט ושקוף, כך שתדעו בדיוק מה מחכה לכם עוד לפני שאתם מגיעים.</p>
       
-      <div class="index-process-steps">
-        <div class="index-process-step">
+      <div class="index-process-steps zappy-vertical-grid">
+        <div class="index-process-step" data-grid-item-index="0">
           <div class="index-process-step-number">
             <span>1</span>
           </div>
@@ -881,7 +881,7 @@
           </div>
         </div>
         
-        <div class="index-process-step">
+        <div class="index-process-step" data-grid-item-index="1">
           <div class="index-process-step-number">
             <span>2</span>
           </div>
@@ -891,7 +891,7 @@
           </div>
         </div>
         
-        <div class="index-process-step">
+        <div class="index-process-step" data-grid-item-index="2">
           <div class="index-process-step-number">
             <span>3</span>
           </div>
@@ -902,12 +902,12 @@
         </div>
       </div>
       
-      <a href="#contact" class="btn-primary index-process-cta">קביעת פגישת ייעוץ</a>
-    </div>
+      <p class="zappy-editable"><a href="#contact" class="btn-primary index-process-cta" data-element-type="button" data-element-id="btn-1773266370984-on155857a" data-native-element="true">קביעת פגישת ייעוץ</a>
+    </p></div>
     
-    <div class="index-process-imagery">
+    <div class="index-process-imagery zappy-grid-item-no-stretch" data-grid-item-index="1">
       <div class="index-process-image-wrapper">
-        <img data-placeholder="index-process-treatment-room" data-context="A serene, minimalist energy healing treatment room corner with soft natural light streaming through a window. The room features a simple massage table with white linens, a small wooden side table with a single candle and a smooth stone, and a potted plant in the corner. Walls are painted in soft cream tones. The atmosphere is calm, professional, and welcoming—perfect for complementary medicine and energy healing. Natural wood flooring, no clutter, peaceful ambiance." width="600" height="800" src="/assets/site-index-process-treatment-room.webp" alt="חדר טיפולים שקט ומינימליסטי עם אור טבעי">
+        <div data-zappy-zoom-wrapper="true" data-element-id="img-1773266370989-r0lj060sg" data-element-type="image" data-zappy-zoom-wrapper-width="480px" data-zappy-zoom-wrapper-height="643px" data-zappy-zoom-wrapper-width-mode="px" style="position: relative !important; overflow: hidden !important; width: 480px !important; max-width: 100% !important; margin-left: auto !important; margin-right: auto !important; height: 643px !important; display: block !important;" data-zappy-zoom-clip="true" data-zappy-wrapper-margins-applied="true"><img data-placeholder="index-process-treatment-room" data-context="A serene, minimalist energy healing treatment room corner with soft natural light streaming through a window. The room features a simple massage table with white linens, a small wooden side table with a single candle and a smooth stone, and a potted plant in the corner. Walls are painted in soft cream tones. The atmosphere is calm, professional, and welcoming—perfect for complementary medicine and energy healing. Natural wood flooring, no clutter, peaceful ambiance." width="600" height="800" src="/assets/site-index-process-treatment-room.webp" alt="חדר טיפולים שקט ומינימליסטי עם אור טבעי" data-element-type="image" data-element-id="img-1773266370989-r0lj060sg" class="zappy-editable-image" data-resize-handler-attached="true" style="object-fit: cover; object-position: 50% 50%; margin-top: 0px !important; margin-bottom: 0px !important; display: block;" data-zappy-zoom="1"></div>
         <div class="index-process-backplate"></div>
       </div>
     </div>
@@ -1302,6 +1302,34 @@
       if (document.readyState === 'loading') { document.addEventListener('DOMContentLoaded', initMobileLangMenu); }
       else { initMobileLangMenu(); }
       window.addEventListener('resize', function() { clearTimeout(window._mlrt); window._mlrt = setTimeout(initMobileLangMenu, 250); });
+    })();
+    </script>
+
+    <script>
+    (function(){
+      if(window.innerWidth>768)return;
+      function fixZW(){
+        document.querySelectorAll('[data-zappy-zoom-wrapper="true"]').forEach(function(w){
+          var cw=w.style.getPropertyValue('width');
+          if(!cw||cw==='100%')return;
+          w.style.setProperty('width','100%','important');
+          w.style.setProperty('max-width','100%','important');
+          w.style.setProperty('height','auto','important');
+          var img=w.querySelector('img');
+          if(img){
+            img.style.setProperty('position','relative','important');
+            img.style.setProperty('width','100%','important');
+            img.style.setProperty('height','auto','important');
+            img.style.setProperty('max-width','100%','important');
+            img.style.setProperty('max-height','400px','important');
+            img.style.setProperty('object-fit','cover','important');
+            img.style.setProperty('left','0','important');
+            img.style.setProperty('top','0','important');
+          }
+        });
+      }
+      if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',fixZW);
+      else setTimeout(fixZW,50);
     })();
     </script>
 </body>

@@ -1,6 +1,4 @@
-# גבי זסלבסקי — Generative Engine Optimization Map
-
-> An energy healing practice specializing in the Nader Butto method of energetic cleansing. The practice focuses on holistic healing through energy work, representing a unique approach to alternative medicine and spiritual wellness.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -28,17 +26,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About גבי זסלבסקי
-An energy healing practice specializing in the Nader Butto method of energetic cleansing. The practice focuses on holistic healing through energy work, representing a unique approach to alternative medicine and spiritual wellness.
-
-## Target Audience
-- מחפשי ריפוי אנרגטי
-- מקצוענים להורדת לחץ
-- סובלים מכאבים כרוניים
-
-## Industry
-טיפול אנרגטי ורפואה משלימה
-
+## About Business
 ---
 
 # Additional Resources
