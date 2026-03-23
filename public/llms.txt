@@ -5,21 +5,21 @@
 ## Pages
 
 ### בית
-https://gabi-zaslavsky.zappy5.app
+https://energy-health.org
 גלו את כוח השטיפה האנרגטית בשיטת נאדר בוטו עם זסלבסקי. טיפול אנרגטי מקצועי להורדת לחץ, שחרור כאבים כרוניים וריפוי הוליסטי עמוק. התחילו את המסע שלכם לאיזון ובריאות.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://gabi-zaslavsky.zappy5.app/privacy
+https://energy-health.org/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://gabi-zaslavsky.zappy5.app/terms
+https://energy-health.org/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://gabi-zaslavsky.zappy5.app/accessibility
+https://energy-health.org/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -31,5 +31,5 @@ Information about WCAG compliance and accessibility features.
 
 # Additional Resources
 
-- **Sitemap**: https://gabi-zaslavsky.zappy5.app/sitemap.xml
-- **Robots.txt**: https://gabi-zaslavsky.zappy5.app/robots.txt
+- **Sitemap**: https://energy-health.org/sitemap.xml
+- **Robots.txt**: https://energy-health.org/robots.txt
