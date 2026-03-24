@@ -5,21 +5,21 @@
 ## Pages
 
 ### בית
-https://energy-health.org
+https://energy-life.org
 גלו את כוח השטיפה האנרגטית בשיטת נאדר בוטו עם זסלבסקי. טיפול אנרגטי מקצועי להורדת לחץ, שחרור כאבים כרוניים וריפוי הוליסטי עמוק. התחילו את המסע שלכם לאיזון ובריאות.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://energy-health.org/privacy
+https://energy-life.org/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://energy-health.org/terms
+https://energy-life.org/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://energy-health.org/accessibility
+https://energy-life.org/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -31,5 +31,5 @@ Information about WCAG compliance and accessibility features.
 
 # Additional Resources
 
-- **Sitemap**: https://energy-health.org/sitemap.xml
-- **Robots.txt**: https://energy-health.org/robots.txt
+- **Sitemap**: https://energy-life.org/sitemap.xml
+- **Robots.txt**: https://energy-life.org/robots.txt
