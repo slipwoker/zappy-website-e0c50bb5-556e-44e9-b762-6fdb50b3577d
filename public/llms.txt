@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# Life Energy — Generative Engine Optimization Map
+
+> An energy healing practice specializing in the Nader Butto method of energetic cleansing. The practice focuses on holistic healing through energy work, representing a unique approach to alternative medicine and spiritual wellness.
 
 ---
 
@@ -24,12 +26,44 @@ Information about WCAG compliance and accessibility features.
 
 ---
 
-# Business Context (for LLM understanding)
+## How to Contact Us
 
-## About Business
+- Email: homeopathy.info@gmail.com
+- Phone: 0544920180
+- Phone (tel): tel:0544920180
+- Address: הבוסתן 25, הרצליה, , הרצליה
+
+### Contact form
+- URL: https://energy-life.org
+- Endpoint: https://energy-life.org/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
 ---
 
-# Additional Resources
+# Business Context (for LLM understanding)
 
-- **Sitemap**: https://energy-life.org/sitemap.xml
-- **Robots.txt**: https://energy-life.org/robots.txt
+## About Life Energy
+An energy healing practice specializing in the Nader Butto method of energetic cleansing. The practice focuses on holistic healing through energy work, representing a unique approach to alternative medicine and spiritual wellness.
+
+## Target Audience
+- מחפשי ריפוי אנרגטי
+- מקצוענים להורדת לחץ
+- סובלים מכאבים כרוניים
+
+## Industry
+טיפול אנרגטי ורפואה משלימה
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://energy-life.org/sitemap.xml
+- Robots: https://energy-life.org/robots.txt
+- Flattened page text (for LLMs): https://energy-life.org/llms-full.txt
